@@ -10,7 +10,7 @@ spring:
           lower-case-service-id: true
 
 server:
-  port: 8765
+  port: 8765 # porta do api gateyway
 
 eureka:
   instance:
